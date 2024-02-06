@@ -1,0 +1,1206 @@
+repo_name: stackshareiodev/ad_GenerativeAIExamples
+report_id: 563e17a92a44fe75d495f0e0e9c10e87
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-06T11:38:56+00:00'
+requested_by: shubhadeepd
+provider: github
+branch: main
+detected_tools_count: 93
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  version: 3.1.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/RetrievalAugmentedGeneration/frontend/requirements.txt
+  detection_source: RetrievalAugmentedGeneration/frontend/requirements.txt
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-11-09 18:11:40.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples
+  detection_source: Repo Metadata
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples
+  detection_source: Repo Metadata
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/compose/docker-compose.yaml
+  detection_source: deploy/compose/docker-compose.yaml
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-11-09 18:11:40.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  version: 3.20.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/RetrievalAugmentedGeneration/frontend/requirements.txt
+  detection_source: RetrievalAugmentedGeneration/frontend/requirements.txt
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2024-01-22 16:35:15.000000000 Z
+- name: React on Rails Pro
+  description: Go beyond open-source React on Rails to optimize performance, save
+    time, and enhance the user experience
+  website_url: https://www.shakacode.com/react-on-rails-pro/
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/21349/default_094e27ddc20e25f63cdcb9b7eda1dda9c35f2560.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: ent
+  description: An entity framework for Go
+  website_url: https://entgo.io/
+  version: 0.4.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: DB
+  description: 'Version control for databases: save, restore, and archive snapshots
+    of your database from the command line'
+  website_url: https://github.com/infostreams/db
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/compose/docker-compose.yaml
+  detection_source: deploy/compose/docker-compose.yaml
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-11-09 18:11:40.000000000 Z
+- name: Data Warehouses by Freshpaint
+  description: Customer data in any warehouse. Retroactively. In one click
+  website_url: https://www.freshpaint.io/product/warehouses
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Big Data as a Service
+  image_url: https://img.stackshare.io/service/21707/default_8a8dd7da278574d984423a5b59b816f079f8b5c9.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Hyperledger Iroha
+  description: A simple blockchain platform you can use to make trusted, secure, and
+    fast applications
+  website_url: https://www.hyperledger.org/use/iroha
+  version: 1.1.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Blockchain
+  image_url: https://img.stackshare.io/service/21229/default_b72c28c2a9d62b1764a3358fec9ba9dd4d57a528.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Minio
+  description: AWS S3 open source alternative written in Go
+  website_url: https://minio.io/
+  version: 7.2.0
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/RetrievalAugmentedGeneration/requirements.txt
+  detection_source: RetrievalAugmentedGeneration/requirements.txt
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2024-01-22 16:35:15.000000000 Z
+- name: Parity
+  description: Blockchain Infrastructure for the Decentralised Web
+  website_url: https://www.parity.io/
+  version: 0.8.0
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Blockchain
+  image_url: https://img.stackshare.io/service/21153/default_e7ffd9513374109d00c62e9730418f78ee0a8e91.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Quickwork
+  description: The Integration and API platform to build automated workflows
+  website_url: https://quickwork.co/
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: API Tools
+  image_url: https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: dbForge Data Compare for MySQL
+  description: A powerful, fast, and easy-to-use data comparison tool
+  website_url: https://www.devart.com/dbforge/mysql/datacompare/
+  version: 0.0.14
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/21194/default_39d248dbc488d47c5dc8749e6b46f12697de376e.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: dbForge Documenter for MySQL
+  description: Explore and Document MySQL and MariaDB Databases
+  website_url: https://www.devart.com/dbforge/mysql/documenter/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/21196/default_ff281c62885529395d6269d68233e83f8e96a02b.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.mod
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: dbForge Fusion for MySQL
+  description: Connect and Manage MySQL from Visual Studio
+  website_url: https://www.devart.com/dbforge/mysql/fusion/
+  version: 0.5.0
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/21198/default_18ca3e5076366a76c68a92fe59258b3b335cdae1.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: dbForge Schema Compare for Redshift/PostgreSQL
+  description: Compare and Sync PostgreSQL &amp; Amazon Redshift Databases
+  website_url: https://www.devart.com/dbforge/postgresql/schemacompare/
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: dbForge Search for SQL Server
+  description: An SSMS add-in that allows you to quickly find SQL objects, data, and
+    text
+  website_url: https://www.devart.com/dbforge/sql/search/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/21187/default_ad21b860d7b33a39205da4940637922485e52b8e.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.mod
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples
+  detection_source: Repo Metadata
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/compose/config.yaml
+  detection_source: deploy/compose/config.yaml
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-11-09 18:11:40.000000000 Z
+- name: Kotest
+  description: Powerful, elegant and flexible test framework for Kotlin
+  website_url: https://kotest.io/
+  version: 1.1.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/21154/default_5b7922a99e2d777cabf7d8a9b4ba9ff0627eae82.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: OpenYurt
+  description: Extending your native Kubernetes to edge (by Alibaba)
+  website_url: https://openyurt.io/en-us/
+  version: 1.0.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.mod
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: ZyXel
+  description: Your Networking Ally
+  website_url: https://www.zyxel.com/us/en/
+  version: 0.3.0
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Networking Hardware
+  image_url: https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: etcd
+  description: A distributed consistent key-value store for shared configuration and
+    service discovery
+  website_url: https://github.com/coreos/etcd
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Open Source Service Discovery
+  image_url: https://img.stackshare.io/service/1721/etcd.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/compose/docker-compose.yaml
+  detection_source: deploy/compose/docker-compose.yaml
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-11-09 18:11:40.000000000 Z
+- name: LaunchMatic
+  description: Design mobile app screenshots for the Apple App Store and Google Play
+    Store
+  website_url: https://www.launchmatic.app/
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Screenshots as a Service
+  image_url: https://img.stackshare.io/service/21135/default_59aa10a4d0de8cc95af630b37d93ffdd04bc93fd.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Mojito
+  description: A professional, open source split testing framework
+  website_url: https://mojito.mx/
+  version: 1.19.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Analytics
+  sub_category: A/B Testing Analytics
+  image_url: https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: OpenCV
+  description: Open Source Computer Vision Library
+  website_url: http://opencv.org/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/RetrievalAugmentedGeneration/requirements.txt
+  detection_source: RetrievalAugmentedGeneration/requirements.txt
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-11-09 18:11:40.000000000 Z
+- name: Abstract APIs
+  description: Simple, powerful APIs for everyday dev tasks
+  website_url: https://www.abstractapi.com/
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Customer Information API
+  image_url: https://img.stackshare.io/service/21140/default_8a94513f1340db48c564130fc609b4ce3d010a76.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Anchore
+  website_url: https://anchore.com/
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21244/default_116fe3a04931498ad16c7164c70ae60ba4c0435a.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Appzi
+  description: A web based user feedback platform that enables SaaS companies to collect
+    product feedback, right from within their website or app
+  website_url: https://www.appzi.com/
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Feedback Widget
+  image_url: https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Blueground
+  description: Move-in ready, beautifully furnished apartments for stays of a month,
+    year or even longer
+  website_url: https://www.theblueground.com/
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Property Management
+  image_url: https://img.stackshare.io/service/21348/default_1708964b3ede87764620fdb8041cec7b4a275188.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Brick
+  description: Publish your writing with zero hassle
+  website_url: https://brick.do
+  version: 0.11.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21934/default_70229ad3cad7c94a474e29634d80aec28bb89da4.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: CALIPIO Recorder
+  description: Secure screen and webcam recording in your browser
+  website_url: https://recorder.calipio.com
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21845/default_68651d778c8418423d985b3864a908913648b92c.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: CodeTogether
+  description: CodeTogether is a remote pair / mob programming solution that allows
+    you to code with your colleagues from the comfort of your own IDE or even a browser.
+  website_url: https://www.codetogether.com/
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21515/default_cfc0208804501b8707b88ace09c8e13d0bac09b9.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: DrugsDisclosed
+  description: DrugsDisclosed.com, the ‘medication Trustpilot’, allows patients to
+    share real world experiences of their medicines.
+  website_url: https://www.DrugsDisclosed.com
+  version: 0.3.11
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Healthcare
+  image_url: https://img.stackshare.io/service/21139/default_a91af1b38a50bbe8d5c2a2885d3add753139c68e.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Dutypare
+  description: Comparing duty free products from worldwide shops.
+  website_url: https://dutypare.com
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21119/default_7d7cdfe126e00b141809117af1af8ba177913dc4.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Easy Peasy
+  website_url: https://easy-peasy.now.sh/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21512/default_54eb278aae9186a0210b127b03694857ac44cf6d.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.mod
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: EmailOctopus
+  description: Email marketing for less
+  website_url: https://emailoctopus.com/
+  version: 1.24.0
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Email Marketing
+  image_url: https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: FinCRM
+  description: CRM for Small Businesses
+  website_url: http://www.fincrm.net
+  version: 1.7.0
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: CRM
+  image_url: https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Immuta Policy Engine
+  description: Automate data governance, security, access control and privacy protection
+  website_url: https://www.immuta.com/capabilities/data-access-governance/
+  version: 1.8.0
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Security Services
+  image_url: https://img.stackshare.io/service/21130/default_ca5ea7d4623ed68ccd30fc46aa1ac7e7cd39f99c.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: JetBrains Toolbox
+  website_url: https://www.jetbrains.com/lp/toolbox/
+  version: 0.3.1
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21159/default_15d84d743a05c34a32cfd8708e7ef1266d0c4b77.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: MUP
+  website_url: http://meteor-up.com/
+  version: 0.4.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21494/default_3f2fb1a0e4bcafa3dbf9f0673ee8f6980537027b.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: NextGen Connect
+  description: Healthcare Integration Engine
+  website_url: https://www.nextgen.com/products-and-services/integration-engine
+  version: 0.0.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Healthcare
+  image_url: https://img.stackshare.io/service/21261/default_d293f99ced885f572a3f940a74fbe1f211261a96.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.25.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/RetrievalAugmentedGeneration/frontend/requirements.txt
+  detection_source: RetrievalAugmentedGeneration/frontend/requirements.txt
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-11-09 18:11:40.000000000 Z
+- name: Oktell
+  description: A contact center automation platform
+  website_url: https://oktell.ru/
+  version: 0.20.2
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Call Center Management
+  image_url: https://img.stackshare.io/service/21302/default_5bbd7ccec3ff0e66da434030f9170680819b14d1.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: PodRoom
+  description: A chatroom platform for Podcast communities.
+  website_url: https://www.podroom.live
+  version: 2.2.1
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Customer Community
+  image_url: https://img.stackshare.io/service/21118/default_9a7a00fb1b5d7592ccf97fa29f819c3ea64179da.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Portfoleon
+  description: Lean PPM and roadmapping software
+  website_url: https://www.portfoleon.com
+  version: 1.2.0
+  open_source: false
+  hosted_saas: false
+  category: Collaboration
+  sub_category: Project Management
+  image_url: https://img.stackshare.io/service/21782/default_fcbbc5adc35ec5a0ba74910b4e7156d57c1d3155.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: PyCodeQual
+  website_url: https://pycodequ.al/i
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21246/default_ea396f63a8974b2c19460a4ea524ea4c3a3a110f.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: Quickwork Journey Builder
+  website_url: https://automation.quickwork.co/#/
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21121/default_682895d4f0a2777cec582ef7c7f20fd167c1ce11.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: WSL
+  description: Run a GNU/Linux environment directly on Windows
+  website_url: https://docs.microsoft.com/en-us/windows/wsl/about
+  version: 1.16.0
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: ZyWall
+  website_url: https://www.zyxel.com/us/en
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21125/default_a37b436cb360d7db5c0521e74ebeb8e50f8ffc58.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: arrow-kt
+  website_url: https://arrow-kt.io
+  version: 0.0.12
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21132/default_742c3d430f39b43d45c52805a75a9334d7d97a18.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: branch.io
+  website_url: https://branch.io/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21176/default_e4cc230d2491ad5357a6207751a0f2d5a41cbfb8.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.mod
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: dbForge Data Generator for SQL Server
+  description: A powerful GUI tool for a fast generation of meaningful test data for
+    databases
+  website_url: https://www.devart.com/dbforge/sql/data-generator/
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21180/default_ea71b530d72efa192bf97c176bd3823d8911a9d8.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: 'go '
+  description: Go will make you love programming again. I promise.
+  website_url: https://golang.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3458/v02jhlxou71qagr6mwet_normal.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/.patches/root.go
+  detection_source: deploy/k8s-operator/kube-trailblazer/.patches/root.go
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: koalas
+  website_url: https://koalas.readthedocs.io/
+  version: 0.9.1
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21240/default_f752ec7f084669cc7a76c7c2a6ec3c8580de2c8a.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: meml
+  website_url: https://github.com/fivnex/meml
+  version: 1.0.1
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/22004/default_50abed759307f52ce2c594a4b0d1deb1999a4b99.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: nootiz
+  description: The fastest visual website feedback tool for web agencies, web designers,
+    copywriters and web developers
+  website_url: https://www.nootiz.com/en/
+  version: 1.13.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21170/default_f061e6941a00ef2eeb5954eb77a48b7f6626fd91.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: reZme
+  description: Empowering accommodation providers to drive more bookings DIRECT.
+  website_url: https://www.rezme.com
+  version: 1.2.0
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21131/default_9b9bb8bfc9ef61de5963a2296071237110f1274f.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: react-flex-ready
+  website_url: https://www.npmjs.com/package/react-flex-ready
+  version: 0.19.6
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21299/default_dfaa844bc9d766062d69a3c9c554c19a33025452.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: rennflow
+  website_url: https://rennflow.com
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/21201/default_80012ffc0fdda5946338789250eab4bd462bfa97.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: sktime
+  description: A unified toolbox for machine learning with time series (by The Alan
+    Turing Institute)
+  website_url: https://www.sktime.org/en/latest/
+  version: 1.3.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: api/types/swarm
+  description: Moby Project - a collaborative project for the container ecosystem
+    to assemble container-based systems
+  package_url: https://pkg.go.dev/github.com/docker/docker/api/types/swarm
+  version: 1.2.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: apis/apps
+  description: Go client for Kubernetes
+  package_url: https://pkg.go.dev/k8s.io/client-go/pkg/apis/apps
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: blkiodev
+  description: 'DEPRECATED: Please see https://github.com/docker/docker/tree/master/client'
+  package_url: https://pkg.go.dev/github.com/docker/engine-api/types/blkiodev
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: bufs
+  description: Package bufs implements a simple buffer cache
+  package_url: https://pkg.go.dev/github.com/cznic/bufs
+  version: 1.2.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: clientcmd/api
+  description: Production-Grade Container Scheduling and Management
+  package_url: https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api
+  version: 1.3.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: easyjson
+  description: Fast JSON serializer for golang
+  package_url: https://pkg.go.dev/github.com/mailru/easyjson
+  version: 0.7.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: exists
+  description: Production-Grade Container Scheduling and Management
+  package_url: https://pkg.go.dev/k8s.io/kubernetes/plugin/pkg/admission/namespace/exists
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: fsnotify
+  description: Cross-platform file system notifications for Go
+  package_url: https://pkg.go.dev/github.com/fsnotify/fsnotify
+  version: 1.6.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: go-restful
+  description: Package for building REST-style Web Services using Go
+  package_url: https://pkg.go.dev/github.com/emicklei/go-restful
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: gofuzz
+  description: Fuzz testing for go
+  package_url: https://pkg.go.dev/github.com/google/gofuzz
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: golang-lru
+  description: Golang LRU cache
+  package_url: https://pkg.go.dev/github.com/hashicorp/golang-lru
+  version: 1.0.0
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: gomega
+  description: Ginkgo's Preferred Matcher Library
+  package_url: https://pkg.go.dev/github.com/onsi/gomega
+  version: 1.27.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: google
+  description: Go OAuth2
+  package_url: https://pkg.go.dev/golang.org/x/oauth2/google
+  version: 1.5.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: gopass
+  description: Getpasswd for Go
+  package_url: https://pkg.go.dev/github.com/howeyc/gopass
+  version: 1.4.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: govalidator
+  description: Package of validators and sanitizers for strings
+  package_url: https://pkg.go.dev/github.com/asaskevich/govalidator
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: govcloudair
+  description: VCloud Air API bindings for Golang
+  package_url: https://pkg.go.dev/github.com/vmware/govcloudair
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: hcl
+  description: HCL is the HashiCorp configuration language
+  package_url: https://pkg.go.dev/github.com/hashicorp/hcl
+  version: 1.2.0
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: influxql
+  description: Scalable datastore for metrics
+  package_url: https://pkg.go.dev/github.com/influxdb/influxdb/influxql
+  version: 0.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: ioutils
+  description: Moby Project - a collaborative project for the container ecosystem
+    to assemble container-based systems
+  package_url: https://pkg.go.dev/github.com/docker/docker/pkg/ioutils
+  version: 1.7.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: swag
+  description: Goodie bag in use in the go-openapi projects
+  package_url: https://pkg.go.dev/github.com/go-openapi/swag
+  version: 0.22.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: toml
+  description: TOML parser for Golang with reflection
+  package_url: https://pkg.go.dev/github.com/BurntSushi/toml
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: vpx
+  description: Go library for the VMware vSphere API
+  package_url: https://pkg.go.dev/github.com/vmware/govmomi/simulator/vpx
+  version: 1.5.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/deploy/k8s-operator/kube-trailblazer/go.sum
+  detection_source: deploy/k8s-operator/kube-trailblazer/go.mod
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-20 08:28:13.000000000 Z
+- name: atlassian-python-api
+  description: Python Atlassian REST API Wrapper
+  package_url: https://pypi.org/project/atlassian-python-api
+  version: 3.41.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/notebooks/requirements.txt
+  detection_source: tools/evaluation/requirements.txt
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2024-01-22 16:35:15.000000000 Z
+- name: jupyterlab
+  description: The JupyterLab notebook server extension
+  package_url: https://pypi.org/project/jupyterlab
+  version: 4.0.8
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20376/default_e6c4d6b6295b7d6934a5e16b2a16a7aa07991d65.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/notebooks/requirements.txt
+  detection_source: tools/evaluation/requirements.txt
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-14 22:03:24.000000000 Z
+  vulnerabilities:
+  - name: JupyterLab vulnerable to potential authentication and CSRF tokens leak
+    cve_id: CVE-2024-22421
+    cve_url: https://github.com/advisories/GHSA-44cc-43rp-5947
+    detected_date: Jan 20
+    severity: high
+    first_patched: 4.0.11
+  - name: JupyterLab vulnerable to SXSS in Markdown Preview
+    cve_id: CVE-2024-22420
+    cve_url: https://github.com/advisories/GHSA-4m77-cmpx-vjc4
+    detected_date: Jan 20
+    severity: moderate
+    first_patched: 4.0.11
+- name: seaborn
+  description: 'Seaborn: statistical data visualization'
+  package_url: https://pypi.org/project/seaborn
+  version: 0.13.0
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/stackshareiodev/ad_GenerativeAIExamples/blob/main/tools/evaluation/requirements.txt
+  detection_source: tools/evaluation/requirements.txt
+  last_updated_by: Shubhadeep Das
+  last_updated_on: 2023-12-14 22:03:24.000000000 Z
