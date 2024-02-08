@@ -3,51 +3,51 @@
 ## Tech Stack
 stackshareiodev/ad_GenerativeAIExamples is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
 - [Golang](http://golang.org/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [OpenCV](http://opencv.org/) – Image Processing and Management
-- [etcd](https://github.com/coreos/etcd) – Open Source Service Discovery
-- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [Prometheus](http://prometheus.io/) – Monitoring Tools
-- [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
-- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [Minio](https://minio.io/) – Cloud Storage
+- [Python](https://www.python.org) – Languages
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
+- [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
 - [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- [Istio](https://istio.io/) – Microservices Tools
-- [DB](https://github.com/infostreams/db) – Database Tools
-- [PodRoom](https://www.podroom.live) – Customer Community
-- [Appzi](https://www.appzi.com/) – Feedback Widget
-- [Quickwork](https://quickwork.co/) – Workflow Manager
-- [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
-- [Mojito](https://mojito.mx/) – A/B Testing Analytics
-- [FinCRM](http://www.fincrm.net) – CRM
-- [Immuta Policy Engine](https://www.immuta.com/capabilities/data-access-governance/) – Data Security Services
-- [LaunchMatic](https://www.launchmatic.app/) – Screenshots as a Service
-- [DrugsDisclosed](https://www.DrugsDisclosed.com) – Healthcare
-- [Abstract APIs](https://www.abstractapi.com/) – Customer Information API
-- [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
+- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- [React on Rails Pro](https://www.shakacode.com/react-on-rails-pro/) – Frameworks (Full Stack)
 - [ent](https://entgo.io/) – Microframeworks (Backend)
-- [OpenYurt](https://openyurt.io/en-us/) – Container Tools
+- [DB](https://github.com/infostreams/db) – Database Tools
+- [Data Warehouses by Freshpaint](https://www.freshpaint.io/product/warehouses) – Big Data as a Service
+- [Hyperledger Iroha](https://www.hyperledger.org/use/iroha) – Blockchain
+- [Minio](https://minio.io/) – Cloud Storage
 - [Parity](https://www.parity.io/) – Blockchain
-- [Kotest](https://kotest.io/) – Testing Frameworks
-- [dbForge Search for SQL Server](https://www.devart.com/dbforge/sql/search/) – Database Tools
+- [Quickwork](https://quickwork.co/) – Workflow Manager
 - [dbForge Data Compare for MySQL](https://www.devart.com/dbforge/mysql/datacompare/) – Database Tools
 - [dbForge Documenter for MySQL](https://www.devart.com/dbforge/mysql/documenter/) – Database Tools
 - [dbForge Fusion for MySQL](https://www.devart.com/dbforge/mysql/fusion/) – Database Tools
 - [dbForge Schema Compare for Redshift/PostgreSQL](https://www.devart.com/dbforge/postgresql/schemacompare/) – Database Tools
-- [EmailOctopus](https://emailoctopus.com/) – Email Marketing
-- [Hyperledger Iroha](https://www.hyperledger.org/use/iroha) – Blockchain
-- [NextGen Connect](https://www.nextgen.com/products-and-services/integration-engine) – Healthcare
-- [Oktell](https://oktell.ru/) – Call Center Management
-- [Blueground](https://www.theblueground.com/) – Property Management
-- [React on Rails Pro](https://www.shakacode.com/react-on-rails-pro/) – Frameworks (Full Stack)
-- [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) – Operating Systems
-- [Data Warehouses by Freshpaint](https://www.freshpaint.io/product/warehouses) – Big Data as a Service
-- [Portfoleon](https://www.portfoleon.com) – Project Management
+- [dbForge Search for SQL Server](https://www.devart.com/dbforge/sql/search/) – Database Tools
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Istio](https://istio.io/) – Microservices Tools
+- [Kotest](https://kotest.io/) – Testing Frameworks
+- [OpenYurt](https://openyurt.io/en-us/) – Container Tools
+- [Prometheus](http://prometheus.io/) – Monitoring Tools
+- [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
+- [etcd](https://github.com/coreos/etcd) – Open Source Service Discovery
+- [LaunchMatic](https://www.launchmatic.app/) – Screenshots as a Service
+- [Mojito](https://mojito.mx/) – A/B Testing Analytics
+- [OpenCV](http://opencv.org/) – Image Processing and Management
+- [Abstract APIs](https://www.abstractapi.com/) – Customer Information API
+- [Appzi](https://www.appzi.com/) – Feedback Widget
+- [Blueground](https://www.theblueground.com/) – Property Management
+- [DrugsDisclosed](https://www.DrugsDisclosed.com) – Healthcare
+- [EmailOctopus](https://emailoctopus.com/) – Email Marketing
+- [FinCRM](http://www.fincrm.net) – CRM
+- [Immuta Policy Engine](https://www.immuta.com/capabilities/data-access-governance/) – Data Security Services
+- [NextGen Connect](https://www.nextgen.com/products-and-services/integration-engine) – Healthcare
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [Oktell](https://oktell.ru/) – Call Center Management
+- [PodRoom](https://www.podroom.live) – Customer Community
+- [Portfoleon](https://www.portfoleon.com) – Project Management
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) – Operating Systems
+- [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -57,51 +57,51 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 stackshareiodev/ad_GenerativeAIExamples is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1293/opencv-logo-64x64.png' alt='OpenCV'/> [OpenCV](http://opencv.org/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/1721/etcd.png' alt='etcd'/> [etcd](https://github.com/coreos/etcd) – Open Source Service Discovery
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3693/smarty.png' alt='Smarty'/> [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4485/gTawkyAA.png' alt='Minio'/> [Minio](https://minio.io/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3693/smarty.png' alt='Smarty'/> [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'/> [DB](https://github.com/infostreams/db) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/21118/default_9a7a00fb1b5d7592ccf97fa29f819c3ea64179da.jpg' alt='PodRoom'/> [PodRoom](https://www.podroom.live) – Customer Community
-- <img width='25' height='25' src='https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg' alt='Appzi'/> [Appzi](https://www.appzi.com/) – Feedback Widget
-- <img width='25' height='25' src='https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg' alt='Quickwork'/> [Quickwork](https://quickwork.co/) – Workflow Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png' alt='ZyXel'/> [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
-- <img width='25' height='25' src='https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png' alt='Mojito'/> [Mojito](https://mojito.mx/) – A/B Testing Analytics
-- <img width='25' height='25' src='https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg' alt='FinCRM'/> [FinCRM](http://www.fincrm.net) – CRM
-- <img width='25' height='25' src='https://img.stackshare.io/service/21130/default_ca5ea7d4623ed68ccd30fc46aa1ac7e7cd39f99c.png' alt='Immuta Policy Engine'/> [Immuta Policy Engine](https://www.immuta.com/capabilities/data-access-governance/) – Data Security Services
-- <img width='25' height='25' src='https://img.stackshare.io/service/21135/default_59aa10a4d0de8cc95af630b37d93ffdd04bc93fd.png' alt='LaunchMatic'/> [LaunchMatic](https://www.launchmatic.app/) – Screenshots as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/21139/default_a91af1b38a50bbe8d5c2a2885d3add753139c68e.png' alt='DrugsDisclosed'/> [DrugsDisclosed](https://www.DrugsDisclosed.com) – Healthcare
-- <img width='25' height='25' src='https://img.stackshare.io/service/21140/default_8a94513f1340db48c564130fc609b4ce3d010a76.png' alt='Abstract APIs'/> [Abstract APIs](https://www.abstractapi.com/) – Customer Information API
-- <img width='25' height='25' src='https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg' alt='sktime'/> [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/21349/default_094e27ddc20e25f63cdcb9b7eda1dda9c35f2560.png' alt='React on Rails Pro'/> [React on Rails Pro](https://www.shakacode.com/react-on-rails-pro/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png' alt='ent'/> [ent](https://entgo.io/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png' alt='OpenYurt'/> [OpenYurt](https://openyurt.io/en-us/) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'/> [DB](https://github.com/infostreams/db) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21707/default_8a8dd7da278574d984423a5b59b816f079f8b5c9.png' alt='Data Warehouses by Freshpaint'/> [Data Warehouses by Freshpaint](https://www.freshpaint.io/product/warehouses) – Big Data as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/21229/default_b72c28c2a9d62b1764a3358fec9ba9dd4d57a528.png' alt='Hyperledger Iroha'/> [Hyperledger Iroha](https://www.hyperledger.org/use/iroha) – Blockchain
+- <img width='25' height='25' src='https://img.stackshare.io/service/4485/gTawkyAA.png' alt='Minio'/> [Minio](https://minio.io/) – Cloud Storage
 - <img width='25' height='25' src='https://img.stackshare.io/service/21153/default_e7ffd9513374109d00c62e9730418f78ee0a8e91.jpg' alt='Parity'/> [Parity](https://www.parity.io/) – Blockchain
-- <img width='25' height='25' src='https://img.stackshare.io/service/21154/default_5b7922a99e2d777cabf7d8a9b4ba9ff0627eae82.png' alt='Kotest'/> [Kotest](https://kotest.io/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/21187/default_ad21b860d7b33a39205da4940637922485e52b8e.png' alt='dbForge Search for SQL Server'/> [dbForge Search for SQL Server](https://www.devart.com/dbforge/sql/search/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg' alt='Quickwork'/> [Quickwork](https://quickwork.co/) – Workflow Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/21194/default_39d248dbc488d47c5dc8749e6b46f12697de376e.png' alt='dbForge Data Compare for MySQL'/> [dbForge Data Compare for MySQL](https://www.devart.com/dbforge/mysql/datacompare/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21196/default_ff281c62885529395d6269d68233e83f8e96a02b.png' alt='dbForge Documenter for MySQL'/> [dbForge Documenter for MySQL](https://www.devart.com/dbforge/mysql/documenter/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21198/default_18ca3e5076366a76c68a92fe59258b3b335cdae1.png' alt='dbForge Fusion for MySQL'/> [dbForge Fusion for MySQL](https://www.devart.com/dbforge/mysql/fusion/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png' alt='dbForge Schema Compare for Redshift/PostgreSQL'/> [dbForge Schema Compare for Redshift/PostgreSQL](https://www.devart.com/dbforge/postgresql/schemacompare/) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg' alt='EmailOctopus'/> [EmailOctopus](https://emailoctopus.com/) – Email Marketing
-- <img width='25' height='25' src='https://img.stackshare.io/service/21229/default_b72c28c2a9d62b1764a3358fec9ba9dd4d57a528.png' alt='Hyperledger Iroha'/> [Hyperledger Iroha](https://www.hyperledger.org/use/iroha) – Blockchain
-- <img width='25' height='25' src='https://img.stackshare.io/service/21261/default_d293f99ced885f572a3f940a74fbe1f211261a96.jpg' alt='NextGen Connect'/> [NextGen Connect](https://www.nextgen.com/products-and-services/integration-engine) – Healthcare
-- <img width='25' height='25' src='https://img.stackshare.io/service/21302/default_5bbd7ccec3ff0e66da434030f9170680819b14d1.png' alt='Oktell'/> [Oktell](https://oktell.ru/) – Call Center Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/21348/default_1708964b3ede87764620fdb8041cec7b4a275188.jpg' alt='Blueground'/> [Blueground](https://www.theblueground.com/) – Property Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/21349/default_094e27ddc20e25f63cdcb9b7eda1dda9c35f2560.png' alt='React on Rails Pro'/> [React on Rails Pro](https://www.shakacode.com/react-on-rails-pro/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png' alt='WSL'/> [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/21707/default_8a8dd7da278574d984423a5b59b816f079f8b5c9.png' alt='Data Warehouses by Freshpaint'/> [Data Warehouses by Freshpaint](https://www.freshpaint.io/product/warehouses) – Big Data as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/21782/default_fcbbc5adc35ec5a0ba74910b4e7156d57c1d3155.jpg' alt='Portfoleon'/> [Portfoleon](https://www.portfoleon.com) – Project Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/21187/default_ad21b860d7b33a39205da4940637922485e52b8e.png' alt='dbForge Search for SQL Server'/> [dbForge Search for SQL Server](https://www.devart.com/dbforge/sql/search/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21154/default_5b7922a99e2d777cabf7d8a9b4ba9ff0627eae82.png' alt='Kotest'/> [Kotest](https://kotest.io/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png' alt='OpenYurt'/> [OpenYurt](https://openyurt.io/en-us/) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png' alt='ZyXel'/> [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
+- <img width='25' height='25' src='https://img.stackshare.io/service/1721/etcd.png' alt='etcd'/> [etcd](https://github.com/coreos/etcd) – Open Source Service Discovery
+- <img width='25' height='25' src='https://img.stackshare.io/service/21135/default_59aa10a4d0de8cc95af630b37d93ffdd04bc93fd.png' alt='LaunchMatic'/> [LaunchMatic](https://www.launchmatic.app/) – Screenshots as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png' alt='Mojito'/> [Mojito](https://mojito.mx/) – A/B Testing Analytics
+- <img width='25' height='25' src='https://img.stackshare.io/service/1293/opencv-logo-64x64.png' alt='OpenCV'/> [OpenCV](http://opencv.org/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/21140/default_8a94513f1340db48c564130fc609b4ce3d010a76.png' alt='Abstract APIs'/> [Abstract APIs](https://www.abstractapi.com/) – Customer Information API
+- <img width='25' height='25' src='https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg' alt='Appzi'/> [Appzi](https://www.appzi.com/) – Feedback Widget
+- <img width='25' height='25' src='https://img.stackshare.io/service/21348/default_1708964b3ede87764620fdb8041cec7b4a275188.jpg' alt='Blueground'/> [Blueground](https://www.theblueground.com/) – Property Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/21139/default_a91af1b38a50bbe8d5c2a2885d3add753139c68e.png' alt='DrugsDisclosed'/> [DrugsDisclosed](https://www.DrugsDisclosed.com) – Healthcare
+- <img width='25' height='25' src='https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg' alt='EmailOctopus'/> [EmailOctopus](https://emailoctopus.com/) – Email Marketing
+- <img width='25' height='25' src='https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg' alt='FinCRM'/> [FinCRM](http://www.fincrm.net) – CRM
+- <img width='25' height='25' src='https://img.stackshare.io/service/21130/default_ca5ea7d4623ed68ccd30fc46aa1ac7e7cd39f99c.png' alt='Immuta Policy Engine'/> [Immuta Policy Engine](https://www.immuta.com/capabilities/data-access-governance/) – Data Security Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/21261/default_d293f99ced885f572a3f940a74fbe1f211261a96.jpg' alt='NextGen Connect'/> [NextGen Connect](https://www.nextgen.com/products-and-services/integration-engine) – Healthcare
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21302/default_5bbd7ccec3ff0e66da434030f9170680819b14d1.png' alt='Oktell'/> [Oktell](https://oktell.ru/) – Call Center Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/21118/default_9a7a00fb1b5d7592ccf97fa29f819c3ea64179da.jpg' alt='PodRoom'/> [PodRoom](https://www.podroom.live) – Customer Community
+- <img width='25' height='25' src='https://img.stackshare.io/service/21782/default_fcbbc5adc35ec5a0ba74910b4e7156d57c1d3155.jpg' alt='Portfoleon'/> [Portfoleon](https://www.portfoleon.com) – Project Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png' alt='WSL'/> [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg' alt='sktime'/> [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -112,7 +112,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_GenerativeAIExamples](https://github.com/stackshareiodev/ad_GenerativeAIExamples)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|93<br/>Tools used|02/07/24 <br/>Report generated|
+|93<br/>Tools used|02/08/24 <br/>Report generated|
 |------|------|
 </div>
 
